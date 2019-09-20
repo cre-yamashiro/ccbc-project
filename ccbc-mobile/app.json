@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "HARVEST",
+    "icon": "./images/app-icon.png",
+    "version": "1.0.5",
+    "slug": "harvest",
+    "sdkVersion": "32.0.0",
+    "ios": {
+      "bundleIdentifier": "com.creativeconsultant.harvest"
+    },
+    "android": {
+      "versionCode": 5,
+      "package": "com.creativeconsultant.harvest",
+      "permissions": []
+    }
+  }
+}
